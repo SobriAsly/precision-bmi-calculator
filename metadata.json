@@ -1,0 +1,5 @@
+{
+  "name": "Precision BMI Calculator",
+  "description": "A sleek, modern BMI calculator with metric/imperial support, history tracking, and visual health insights.",
+  "requestFramePermissions": []
+}
